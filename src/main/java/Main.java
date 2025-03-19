@@ -5,6 +5,7 @@
 public class Main {
     public static void main(String[] args) {
         // Pętla, która wypisuje liczby od 0 do 100
+        System.out.println("Zmienne od 0 do 100:");
         for (int i = 0; i <= 100; i++) {
             System.out.println(i);
         }
